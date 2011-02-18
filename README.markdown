@@ -9,7 +9,7 @@ Download the script.
     # Using git
     $ git clone git@github.com:kulbirsaini/Railscasts-Sync.git
 
-    # Or directly via HTTP [railscasts_sync.rb](https://github.com/kulbirsaini/Railscasts-Sync/raw/master/railscasts_sync.rb)
+    # Or directly via HTTPs
     $ wget https://github.com/kulbirsaini/Railscasts-Sync/raw/master/railscasts_sync.rb
 
 Create Railscasts directory
